@@ -5,6 +5,13 @@ import java.lang.reflect.Method;
 import java.sql.*;
 
 public class JDBCTools<T> {
+    /**
+     * 通过固定SQL语句查询某个对象
+     * @param connection
+     * @param sql
+     * @param clazz
+     * @return
+     */
     public T getBean(Connection connection, String sql, Class clazz) {
         PreparedStatement statement = null;
         ResultSet resultSet = null;
