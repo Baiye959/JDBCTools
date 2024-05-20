@@ -8,6 +8,9 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+/**
+ * 无工具类，数据库查询原方法
+ */
 public class Test2 {
     public static void main(String[] args) throws SQLException {
         Connection connection = C3P0Tools.getConnection();

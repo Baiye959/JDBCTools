@@ -1,5 +1,5 @@
 
-q
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊÞûÿÿÿÿ8ï¯©°ù1
-]	java:S125"<This block of commented-out lines of code should be removed.(÷ Ÿ‚úÿÿÿÿ8ô¯©°ù1
-L	java:S106"+Replace this use of System.out by a logger.(Âé’ùÿÿÿÿ8÷¯©°ù1
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊÞûÿÿÿÿ8ï¯©°ù1J$780b9212-ab8a-4214-895d-238d4231e8b2
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(÷ Ÿ‚úÿÿÿÿ8ô¯©°ù1J$11e09cd6-fe6e-4be9-ab80-ca47695ad4f8
+r	java:S106"+Replace this use of System.out by a logger.(Âé’ùÿÿÿÿ8÷¯©°ù1J$4a2cfdd9-5314-472a-a2b3-2ffb47a47572
