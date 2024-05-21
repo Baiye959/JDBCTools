@@ -1,35 +1,25 @@
 
 r
-java:S3740"/Provide the parametrized type for this generic.(™á¤8Æë‹Õù1J$8afabfb7-0e72-4685-8f89-7cb00bb2594e
+java:S3740"/Provide the parametrized type for this generic.(™á¤8ÇÚ·Øù1J$af2bdf51-0d86-49b1-b5e9-af8907ba1e90
 r
-java:S3740^"/Provide the parametrized type for this generic.(ÊŞéÕ8Æë‹Õù1J$6c1203e2-94c1-48b6-a1b1-6f68959c08c9
-x
-java:S3740"/Provide the parametrized type for this generic.(ÑéÓ´üÿÿÿÿ8ä•Õù1J$7f23ca7e-3e2b-47cb-9cc8-8d423b18c140
+java:S37402"/Provide the parametrized type for this generic.(ÊŞéÕ8ÇÚ·Øù1J$4086d78c-27cd-45ff-9cfc-ef0128835647
+w
+java:S3740Q"/Provide the parametrized type for this generic.(ÑéÓ´üÿÿÿÿ8ÇÚ·Øù1J$aa707d47-45f0-4e9a-8e0c-c1692a23e08d
+r
+java:S3740r"/Provide the parametrized type for this generic.(ŞÂõÒ8ÈÚ·Øù1J$f5770eae-2ae4-4cee-8500-fd62acbff5bd
 s
-java:S3740ä"/Provide the parametrized type for this generic.(ŞÂõÒ8‰ÀÕù1J$3b1c8a7c-2a9b-4689-a0e2-c15912f99674
-”
-java:S1192#"QDefine a constant instead of duplicating this literal "java.lang.String" 6 times.(½ÍªÌ8Çë‹Õù1J$3bdd72a8-a17d-42b7-b866-eb46dd3b1aea
+java:S3740©"/Provide the parametrized type for this generic.(ëú­Ë8ÂÇ¾Øù1J$620f4e6b-2f8a-4c56-b795-f0699e72f079
 •
-java:S1192 "RDefine a constant instead of duplicating this literal "java.lang.Integer" 6 times.(Ú—³Á8Çë‹Õù1J$3260ceeb-0e4b-4e8f-b914-2b921c6ec4af
-“
-java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(´Ôƒ¼üÿÿÿÿ8Èë‹Õù1J$cfd34a46-edff-4009-a498-a22191faa0c1
-
-java:S13019"KReplace this "switch" statement by "if" statements to increase readability.(šäÃü8Èë‹Õù1J$50accc4b-6aa2-4124-81a6-aa53518bbb23
-
-java:S1301u"KReplace this "switch" statement by "if" statements to increase readability.(šäÃü8Èë‹Õù1J$4d419654-b8d8-4f30-a09f-2062246aaad1
+java:S1192™"QDefine a constant instead of duplicating this literal "java.lang.String" 3 times.(½ÍªÌ8³ªÂØù1J$64343655-7f7d-4aea-9f81-f062a10c2df5
+–
+java:S1192–"RDefine a constant instead of duplicating this literal "java.lang.Integer" 3 times.(Ú—³Á8³ªÂØù1J$86332b1a-1cba-4382-8da7-add49bc90ca7
 ”
-java:S1301©"KReplace this "switch" statement by "if" statements to increase readability.(´Ôƒ¼üÿÿÿÿ8Èë‹Õù1J$5d3961c3-764c-498f-ab9f-f309debc6390
+java:S1301•"KReplace this "switch" statement by "if" statements to increase readability.(´Ôƒ¼üÿÿÿÿ8ÊÚ·Øù1J$361d5827-24e8-4885-a46c-7f0c2c41bc0f
 
-java:S1301Á"KReplace this "switch" statement by "if" statements to increase readability.(šäÃü8¯èÕù1J$55a85e9c-3bb1-4b3f-96f3-c92e3417476a
+java:S1301µ"KReplace this "switch" statement by "if" statements to increase readability.(šäÃü8ÊÚ·Øù1J$e1a24f4b-e70a-4d74-8a6c-c0fdb5e30897
 
-java:S1301ø"KReplace this "switch" statement by "if" statements to increase readability.(šäÃü8°èÕù1J$a7eb3ee0-70b9-4e74-801c-ed51696ad7a0
-i	java:S131""Add a default case to this switch.(´Ôƒ¼üÿÿÿÿ8£ëÕù1J$6eb28260-3f46-48c3-8ff3-2b84725c7740
-d	java:S1319""Add a default case to this switch.(šäÃü8¦ëÕù1J$bde6daac-5ab6-4f64-9740-66955ea46ac5
-ƒ	java:S125A"<This block of commented-out lines of code should be removed.(£ı¤øÿÿÿÿ8§ëÕù1J$54f08c77-eb56-41a1-bc22-be763b071655
-d	java:S131u""Add a default case to this switch.(šäÃü8«ëÕù1J$d4a58a30-e00e-4b10-acb4-98ba8ec1ff8a
-ƒ	java:S125}"<This block of commented-out lines of code should be removed.(£ı¤øÿÿÿÿ8«ëÕù1J$40b9e818-c38e-4ecb-9589-c85ae2e47929
-j	java:S131©""Add a default case to this switch.(´Ôƒ¼üÿÿÿÿ8¯ëÕù1J$3a20f360-a661-4a5b-84c3-c12a602c61c5
-e	java:S131Á""Add a default case to this switch.(šäÃü8°ëÕù1J$302a499b-0405-4698-af69-f52127429cf4
-„	java:S125É"<This block of commented-out lines of code should be removed.(£ı¤øÿÿÿÿ8°ëÕù1J$ab25a778-ad5b-45c7-8f27-5e4bf8b9dde1
-e	java:S131ø""Add a default case to this switch.(šäÃü8´ëÕù1J$b54cd3e1-8cc0-4110-8da1-977a0f159e3b
-„	java:S125€"<This block of commented-out lines of code should be removed.(£ı¤øÿÿÿÿ8´ëÕù1J$de2b8bcc-0a2a-467b-8188-ba6f0a982c26
+java:S1301Û"KReplace this "switch" statement by "if" statements to increase readability.(šäÃü8ˆ¯¿Øù1J$69a3cc96-06bd-47c8-9e54-de6bf5bf4905
+j	java:S131•""Add a default case to this switch.(´Ôƒ¼üÿÿÿÿ8ØÛ·Øù1J$523e5410-b1f4-4fb7-9f83-916fa691a361
+e	java:S131µ""Add a default case to this switch.(šäÃü8ÛÛ·Øù1J$a50e34ea-7a09-4a2f-a381-dda701f16cd3
+„	java:S125½"<This block of commented-out lines of code should be removed.(£ı¤øÿÿÿÿ8ØÈ¾Øù1J$a1834b09-606b-465c-b6b9-711f0c811697
+e	java:S131Û""Add a default case to this switch.(šäÃü8ş¯¿Øù1J$1579886b-6b58-4a9a-8cae-c52915e7860a
